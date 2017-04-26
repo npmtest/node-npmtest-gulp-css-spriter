@@ -136,7 +136,7 @@
 <tspan x="10" y="2138">  │ │ │ │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="2154">  │ │ │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="2170">  │ │ │ │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="2186">  │ │ │ │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="2186">  │ │ │ │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="2202">  │ │ │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="2218">  │ │ │ │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="2234">  │ │ │ │ │   ├── jsbn@0.1.1 </tspan>
@@ -196,7 +196,7 @@
 <tspan x="10" y="3098">  │ │ │       ├─┬ cliui@2.1.0 </tspan>
 <tspan x="10" y="3114">  │ │ │       │ ├─┬ center-align@0.1.3 </tspan>
 <tspan x="10" y="3130">  │ │ │       │ │ ├─┬ align-text@0.1.4 </tspan>
-<tspan x="10" y="3146">  │ │ │       │ │ │ ├── kind-of@3.1.0 </tspan>
+<tspan x="10" y="3146">  │ │ │       │ │ │ ├── kind-of@3.2.0 </tspan>
 <tspan x="10" y="3162">  │ │ │       │ │ │ ├── longest@1.0.1 </tspan>
 <tspan x="10" y="3178">  │ │ │       │ │ │ └── repeat-string@1.6.1 </tspan>
 <tspan x="10" y="3194">  │ │ │       │ │ └── lazy-cache@1.0.4 </tspan>
